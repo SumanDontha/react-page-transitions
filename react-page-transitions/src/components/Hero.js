@@ -13,7 +13,7 @@ const Section = styled.section`
 
 const Container = styled.div`
   color: #fff;
-  padding: 0rem 2.5rem;
+  padding: 2rem 3.5rem;
   backdrop-filter: blur(5px);
   background-color: rgba(0, 0, 0, 0.4);
   margin: 2rem;
@@ -34,7 +34,6 @@ const Container = styled.div`
     padding: 0.8rem 2rem;
     color: #000;
     background: #ffb347;
-    // background: linear-gradient(top right, #ffcc33, #ffb347);
     background: linear-gradient(to right, #ffcc33, #ffb347);
     border: none;
     border-radius: 4px;
